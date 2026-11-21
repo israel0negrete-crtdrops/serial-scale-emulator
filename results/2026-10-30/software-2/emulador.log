@@ -1,0 +1,7 @@
+báscula escuchando en /dev/ttyGS0
+enlace caido (ConnectionError: el otro lado cerró el puerto) t_reloj=1793419012.914 t_mono_ns=789934790319
+enlace reabierto t_reloj=1793419013.315 t_mono_ns=790335847608
+enlace caido (ConnectionError: el otro lado cerró el puerto) t_reloj=1793419037.944 t_mono_ns=814964638437
+enlace reabierto t_reloj=1793419038.345 t_mono_ns=815366035849
+enlace caido (ConnectionError: el otro lado cerró el puerto) t_reloj=1793419062.974 t_mono_ns=839995281266
+enlace reabierto t_reloj=1793419063.376 t_mono_ns=840396628417
